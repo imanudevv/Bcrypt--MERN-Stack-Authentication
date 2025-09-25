@@ -1,0 +1,6 @@
+/* Keep file for potential component overrides; main theme lives in index.css */
+
+.app-shell {
+  min-height: 100vh;
+}
+
